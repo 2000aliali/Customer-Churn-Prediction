@@ -30,3 +30,4 @@ pandas==2.2.3
 packaging==24.1
 pathspec==0.12.1
 protobuf==4.25.5
+scikit-learn==1.5.2
